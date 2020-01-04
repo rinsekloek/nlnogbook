@@ -128,4 +128,7 @@ proxsys:
   name: Proxsys BV
   asn: 44858
   site: https://www.proxsys.nl
-  
+kindes:
+  name: Kloek Internetdiensten en Software
+  asn: 208241
+  site: https://www.kindes.nl
