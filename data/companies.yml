@@ -128,4 +128,19 @@ proxsys:
   name: Proxsys BV
   asn: 44858
   site: https://www.proxsys.nl
-  
+speakup:
+  name: Speakup B.V.
+  asn: 49627
+  site: https://speakup.nl
+interconnectservices:
+  name: Interconnect Services B.V.
+  asn: 9150
+  site: https://www.interconnect.nl
+jobsnijders:
+  name: Job Snijders
+  asn: 15562
+  site: http://instituut.net/~job
+ntt:
+  name: NTT
+  asn: 2914
+  site: https://us.ntt.net

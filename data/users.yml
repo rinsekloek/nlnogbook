@@ -186,3 +186,26 @@ sdktr:
   rir_handle: SDK56-RIPE
   companies:
     - proxsys
+nullr0ute:
+  full_name: Nick Bouwhuis
+  country: nl
+  rir_handle: NB7401-RIPE
+  companies:
+    - speakup
+Rock-Y:
+  full_name: Bram van de Burgt
+  country: nl
+  companies:
+    - interconnectservices
+Natha:
+  full_name: Nathalie Trenaman
+  country: nl
+  companies:
+    - ripencc
+job:
+  full_name: Job Snijders
+  country: nl
+  rir_handle: JWJS1-RIPE
+  companies:
+    - ntt
+    - jobsnijders
